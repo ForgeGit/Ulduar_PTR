@@ -31,10 +31,12 @@ https://www.reddit.com/r/classicwow/comments/zob655/5_of_yogg_25m_attempts_were_
  <img src="img/Table1.png" />
  <img src="img/Table2.png" />
 
-
-
 ## Methodology
 
 More text will go here
+
+All the data was collected using the WCL API and processed with R v.4.1 (R Development Core Team).
+
+Ideally this repository should eventually have both the raw data used and all the code used to generate both the tables and the graphics.
 
 ![Flowchart of data](img/flowchart.jpeg)
