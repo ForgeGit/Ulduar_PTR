@@ -25,8 +25,11 @@ Text will go here eventually.
 DISCLAIMER: Data in the following tables are for BOTH hardmodes AND normal modes.For now.
 Blame Blizzard/WCL
 
- <img src="img/Table1.webp" />
- <img src="img/Table2.webp" />
+Tables originally posted (by me) in this reddit post:
+https://www.reddit.com/r/classicwow/comments/zob655/5_of_yogg_25m_attempts_were_a_kill_ulduar_ptr/
+
+ <img src="img/Table1.png" />
+ <img src="img/Table2.png" />
 
 
 
