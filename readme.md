@@ -25,8 +25,8 @@ Text will go here eventually.
 DISCLAIMER: Data in the following tables are for BOTH hardmodes AND normal modes.For now.
 Blame Blizzard/WCL
 
- <img src="img/Table1.png" />
- <img src="img/Table2.png" />
+ <img src="img/Table1.webp" />
+ <img src="img/Table2.webp" />
 
 
 
