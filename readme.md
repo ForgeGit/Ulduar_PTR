@@ -1,8 +1,6 @@
 # Ulduar PTR Data
 
-![Flowchart of data](img/flowchart.jpeg)
-
-
+Text will go here eventually.
 
 ## Iron Council HM
 
@@ -21,4 +19,8 @@
  <img src="img/Yogg 0 HM plot1.png" />
 
 
+## Methodology
 
+More text will go here
+
+![Flowchart of data](img/flowchart.jpeg)
