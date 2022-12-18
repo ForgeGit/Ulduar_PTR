@@ -4,6 +4,8 @@
 
 ## Iron Council HM
 
+
+ <img src="img/Iron Council.png" />
 ![Iron Council Hardmode](img/Iron Council.png)
 
 ## Freya HM
