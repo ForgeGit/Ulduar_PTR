@@ -2,21 +2,32 @@
 
 Text will go here eventually.
 
-## Iron Council HM
+## Hardmodes Wipes and Kills durations
+
+### Iron Council HM
 
  <img src="img/Iron Council.png" />
 
-## Freya HM
+### Freya HM
 
  <img src="img/Freya HM plot1.png" />
 
-## Hodir 
+### Hodir 
 
  <img src="img/Hodir plot1.png" />
 
-## Yogg-0
+### Yogg-0
 
  <img src="img/Yogg 0 HM plot1.png" />
+
+## Ulduar Boss Encounters
+
+DISCLAIMER: Data in the following tables are for BOTH hardmodes AND normal modes.For now.
+Blame Blizzard/WCL
+
+ <img src="img/Table1.png" />
+ <img src="img/Table2.png" />
+
 
 
 ## Methodology
