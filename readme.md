@@ -6,4 +6,6 @@
 
 ![Iron Council Hardmode](img/Iron Council.png)
 
-.
+## Freya HM
+
+![Iron Council Hardmode](img/Freya HM plot1.png)
