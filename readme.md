@@ -2,7 +2,7 @@
 
 Text will go here eventually.
 
-## Hardmodes Wipes and Kills durations
+## Hardmodes Wipes and Kills
 
 ### Iron Council HM
 
