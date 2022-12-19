@@ -19,6 +19,8 @@ Text will go here eventually.
 ### Yogg-0
 
  <img src="img/Yogg 0 HM plot1.png" />
+ <img src="img/Yogg Table1.png" />
+
 
 ## Ulduar Boss Encounters
 
