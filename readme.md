@@ -6,19 +6,27 @@ Text will go here eventually.
 
 ### Iron Council HM
 
+Most of the wipes happen close to the dead of the 2nd add (right before or right after). Likely related to tanks (not) surviving Steelbreaker Fusion Punch or increased damage in general.
+
+
+
  <img src="img/Iron Council.png" />
 
 ### Freya HM
-
+Wipes happen mostly early in the fight, during the first 3 sets of adds spawning.
  <img src="img/Freya HM plot1.png" />
 
 ### Hodir 
+Lots of wipes right after the 2 minutes mark (required for it to be "hardmode"). Likely intentional, but very few were able to make it.
 
  <img src="img/Hodir plot1.png" />
 
 ### Yogg-0
 
+Wipes on phase 1, 2 and 3
+
  <img src="img/Yogg 0 HM plot1.png" />
+ Less than 1% of attempts on Yogg-0 resulted in a kill.
  <img src="img/Yogg Table1.png" />
 
 
