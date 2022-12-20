@@ -24,6 +24,10 @@ Lots of wipes right after the 2 minutes mark (required for it to be "hardmode").
 
  <img src="img/mimiron_plot.png" />
 
+### General Vezax HM 
+
+ <img src="img/vez_plot,png" />
+
 
 ### Yogg-0
 
