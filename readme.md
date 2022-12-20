@@ -26,9 +26,12 @@ Lots of wipes right after the 2 minutes mark (required for it to be "hardmode").
 
 ### General Vezax HM 
 
- <img src="img/vez_plot,png" />
+ <img src="img/vez_plot.png" />
+ 
+### Algalon
 
-
+ <img src="img/Alga_plot.png" />
+ 
 ### Yogg-0
 
 Wipes on phase 1, 2 and 3
