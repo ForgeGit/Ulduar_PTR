@@ -19,6 +19,12 @@ Lots of wipes right after the 2 minutes mark (required for it to be "hardmode").
 
  <img src="img/Hodir plot1.png" />
 
+
+### Mimiron HM 
+
+ <img src="img/mimiron_plot.png" />
+
+
 ### Yogg-0
 
 Wipes on phase 1, 2 and 3
