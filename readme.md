@@ -8,7 +8,7 @@ The main purpose of this data is to:
 
 (2) Obtain a rough estimate of kill times.
 
-Based on the bias of the data (PTR) it would be bold to assume the kill:wipe rates in PTR will be the same in live servers once Ulduar goes out. You can check more details regarding the "limitations" of this data at the bottom.
+Based on the bias the data has (coming from PTR) it would be bold to assume the kill:wipe rates in PTR will be the same in live servers once Ulduar goes out. You can check more details regarding the "limitations" of this data at the bottom.
 
 ## Hardmodes Wipes and Kills
 
