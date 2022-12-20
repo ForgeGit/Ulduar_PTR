@@ -1,6 +1,14 @@
 # Ulduar PTR Data
 
-Text will go here eventually.
+MORE Text will go here eventually.
+
+The main purpose of this data is to:
+
+(1) Identify which parts of each boss encounter raids are having the most trouble with.
+
+(2) Obtain a rough estimate of kill times.
+
+Based on the bias of the data (PTR) it would be bold to assume the kill:wipe rates in PTR will be the same in live servers once Ulduar goes out. You can check more details regarding the "limitations" of this data at the bottom.
 
 ## Hardmodes Wipes and Kills
 
