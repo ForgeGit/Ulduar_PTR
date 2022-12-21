@@ -12,16 +12,16 @@ Based on the bias the data has (coming from PTR) it would be bold to assume the 
 
 # Table of Contents
 1. [Hardmodes](#Hardmodes)
-  1.2. [Iron Council HM](#Boss1)
-  1.3. [Freya HM](#Boss2)
-  1.4. [Hodir](#Boss3)
-  1.5. [Mimiron HM](#Boss4)
-  1.6. [General Vezax HM](#Boss5)
-  1.7. [Algalon](#Boss6)
-  1.8. [Algalon](#Boss7)
+    1.2. [Iron Council HM](#Boss1)
+    1.3. [Freya HM](#Boss2)
+    1.4. [Hodir](#Boss3)
+    1.5. [Mimiron HM](#Boss4)
+    1.6. [General Vezax HM](#Boss5)
+    1.7. [Algalon](#Boss6)
+    1.8. [Algalon](#Boss7)
 2. [Overrall Tables](#Tables1)
 3. [Methodology](#Methodology)
-  3.1 [Limitations](#Limitations)
+    3.1 [Limitations](#Limitations)
 
 ## Hardmodes Wipes and Kills <a name="Hardmodes"></a>
 
