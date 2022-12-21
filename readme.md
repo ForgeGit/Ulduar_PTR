@@ -11,21 +11,21 @@ The main purpose of this data is to:
 Based on the bias the data has (coming from PTR) it would be bold to assume the kill:wipe rates in PTR will be the same in live servers once Ulduar goes out. You can check more details regarding the "limitations" of this data at the bottom.
 
 # Table of Contents
-1. [Hardmodes](##Hardmodes Wipes and Kills)
-  1.2. [Iron Council HM](### Iron Council HM)
-  1.3. [Freya HM](### Freya HM)
-  1.4. [Hodir](### Hodir)
-  1.5. [Mimiron HM](### Mimiron HM)
-  1.6. [General Vezax HM](### General Vezax HM)
-  1.7. [Algalon](### Algalon)
-  1.8. [Algalon](### Yogg-0)
-2. [Overrall Tables](## Overall Tables - Boss Encounters)
-3. [Methodology](## Methodology)
-  3.1 [Limitations](### Limitations)
+1. [Hardmodes](#Hardmodes)
+  1.2. [Iron Council HM](#Boss1)
+  1.3. [Freya HM](#Boss2)
+  1.4. [Hodir](#Boss3)
+  1.5. [Mimiron HM](#Boss4)
+  1.6. [General Vezax HM](#Boss5)
+  1.7. [Algalon](#Boss6)
+  1.8. [Algalon](#Boss7)
+2. [Overrall Tables](#Tables1)
+3. [Methodology](#Methodology)
+  3.1 [Limitations](#Limitations)
 
-## Hardmodes Wipes and Kills
+## Hardmodes Wipes and Kills <a name="Hardmodes"></a>
 
-### Iron Council HM
+### Iron Council HM <a name="Boss1"></a>
 
 Most of the wipes happen close to the dead of the 2nd add (right before or right after). Likely related to tanks (not) surviving Steelbreaker Fusion Punch or increased damage of Phase 3 in general.
 
@@ -35,7 +35,7 @@ Most of the wipes happen close to the dead of the 2nd add (right before or right
   
   <img src="img/Council Table 2.png" />
 
-### Freya HM
+### Freya HM <a name="Boss2"></a>
 
 Wipes happen mostly early in the fight, during the first 3 sets of adds spawning.
 
@@ -45,14 +45,14 @@ Wipes happen mostly early in the fight, during the first 3 sets of adds spawning
   
   <img src="img/Freya Table 2.png" />
 
-### Hodir 
+### Hodir <a name="Boss3"></a>
 
 Lots of wipes right after the 2 minutes mark (required for it to be "hardmode"). Likely intentional, but very few were able to make it.
 
  <img src="img/Hodir plot1.png" />
 
 
-### Mimiron HM 
+### Mimiron HM <a name="Boss4"></a>
 
  <img src="img/mimiron_plot.png" />
   
@@ -60,15 +60,15 @@ Lots of wipes right after the 2 minutes mark (required for it to be "hardmode").
   
   <img src="img/Mimiron Table 2.png" />
 
-### General Vezax HM 
+### General Vezax HM <a name="Boss5"></a>
 
  <img src="img/vez_plot.png" />
  
-### Algalon
+### Algalon <a name="Boss6"></a>
 
  <img src="img/Alga_plot.png" />
  
-### Yogg-0
+### Yogg-0 <a name="Boss7"></a>
 
 Wipes on phase 1, 2 and 3
 
@@ -77,7 +77,7 @@ Wipes on phase 1, 2 and 3
  <img src="img/Yogg Table1.png" />
 
 
-## Overall Tables - Boss Encounters
+## Overall Tables - Boss Encounters <a name="Tables1"></a>
 
 DISCLAIMER: Data in the following tables are for BOTH hardmodes AND normal modes.For now.
 Blame Blizzard/WCL
@@ -88,7 +88,7 @@ https://www.reddit.com/r/classicwow/comments/zob655/5_of_yogg_25m_attempts_were_
  <img src="img/Table1.png" />
  <img src="img/Table2.png" />
 
-## Methodology
+## Methodology <a name="Methodology"></a>
 
 More text will go here
 
@@ -96,7 +96,7 @@ All the data was collected using the WCL API and processed with R v.4.1 (R Devel
 
 Ideally this repository should eventually have both the raw data used and all the code used to generate both the tables and the graphics.
 
-### LIMITATIONS
+### LIMITATIONS <a name="Limitations"></a>
 
 a.k.a. Things to consider when interpreting this as "information"
 
