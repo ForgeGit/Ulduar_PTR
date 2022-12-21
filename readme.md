@@ -16,13 +16,24 @@ Based on the bias the data has (coming from PTR) it would be bold to assume the 
 
 Most of the wipes happen close to the dead of the 2nd add (right before or right after). Likely related to tanks (not) surviving Steelbreaker Fusion Punch or increased damage of Phase 3 in general.
 
- <img src="img/Iron Council.png" />
+  <img src="img/Iron Council.png" />
+ 
+  <img src="img/Council Table 1.png" />
+  
+  <img src="img/Council Table 2.png" />
 
 ### Freya HM
+
 Wipes happen mostly early in the fight, during the first 3 sets of adds spawning.
- <img src="img/Freya HM plot1.png" />
+
+  <img src="img/Freya HM plot1.png"/>
+  
+  <img src="img/Freya Table 1.png" />
+  
+  <img src="img/Freya Table 2.png" />
 
 ### Hodir 
+
 Lots of wipes right after the 2 minutes mark (required for it to be "hardmode"). Likely intentional, but very few were able to make it.
 
  <img src="img/Hodir plot1.png" />
@@ -31,6 +42,10 @@ Lots of wipes right after the 2 minutes mark (required for it to be "hardmode").
 ### Mimiron HM 
 
  <img src="img/mimiron_plot.png" />
+  
+  <img src="img/Mimiron Table 1.png" />
+  
+  <img src="img/Mimiron Table 2.png" />
 
 ### General Vezax HM 
 
