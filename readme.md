@@ -10,6 +10,19 @@ The main purpose of this data is to:
 
 Based on the bias the data has (coming from PTR) it would be bold to assume the kill:wipe rates in PTR will be the same in live servers once Ulduar goes out. You can check more details regarding the "limitations" of this data at the bottom.
 
+# Table of Contents
+1. [Hardmodes](##Hardmodes Wipes and Kills)
+  1.2. [Iron Council HM](### Iron Council HM)
+  1.3. [Freya HM](### Freya HM)
+  1.4. [Hodir](### Hodir)
+  1.5. [Mimiron HM](### Mimiron HM)
+  1.6. [General Vezax HM](### General Vezax HM)
+  1.7. [Algalon](### Algalon)
+  1.8. [Algalon](### Yogg-0)
+2. [Overrall Tables](## Overall Tables - Boss Encounters)
+3. [Methodology](## Methodology)
+  3.1 [Limitations](### Limitations)
+
 ## Hardmodes Wipes and Kills
 
 ### Iron Council HM
@@ -64,7 +77,7 @@ Wipes on phase 1, 2 and 3
  <img src="img/Yogg Table1.png" />
 
 
-## Ulduar Boss Encounters
+## Overall Tables - Boss Encounters
 
 DISCLAIMER: Data in the following tables are for BOTH hardmodes AND normal modes.For now.
 Blame Blizzard/WCL
