@@ -16,9 +16,10 @@ Based on the bias the data has (coming from PTR) it would be bold to assume the 
         1.3. [Freya HM](#freya-hm-)<br>
         1.4. [Hodir](#hodir-)<br>
         1.5. [Mimiron HM](#mimiron-hm-)<br>
-        1.6. [General Vezax HM](#general-vezax-hm-)<br>
-        1.7. [Algalon](#algalon-)<br>
-        1.8. [Yogg-0](#yogg-0-)<br>
+        1.6. [Thorim HM](#thorim-hm-)<br>
+        1.7. [General Vezax HM](#general-vezax-hm-)<br>
+        1.8. [Algalon](#algalon-)<br>
+        1.9. [Yogg-0](#yogg-0-)<br>
 2. [Overrall Tables](#overall-tables---boss-encounters-)<br>
 3. [Methodology](#methodology-)<br>
         3.1 [Limitations](#limitations-)<br>
@@ -60,6 +61,10 @@ Lots of wipes right after the 2 minutes mark (required for it to be "hardmode").
   
   <img src="img/Mimiron table 2.png" />
 
+### Thorim HM <a name="Boss4"></a>
+
+ <img src="img/Thor_Plot.png" />
+ 
 ### General Vezax HM <a name="Boss5"></a>
 
  <img src="img/vez_plot.png" />
