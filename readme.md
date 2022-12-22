@@ -99,7 +99,7 @@ More text will go here
 
 All the data was collected using the WCL API and processed with R v.4.1 (R Development Core Team).
 
-Ideally this repository should eventually have both the raw data used and all the code used to generate both the tables and the graphics.
+Ideally this repository should eventually have both the aggregated data used and all the code used to generate both the tables and the graphics.
 
 ### LIMITATIONS <a name="Limitations"></a>
 
@@ -113,6 +113,8 @@ a.k.a. Things to consider when interpreting this as "information"
 
 
 - PTR  means a portion of the players have either incomplete or scuffed UIs/macros/addons, making the overrall performance of the average player worse than what it actually is in live servers. Another group of the PTR players could also be testing specs and gear.
+
+- Raids in general are mostly testing the content, sometimes wiping on purpose or doing quick pulls "just to see the boss". 
 
 
 ![Flowchart of data](img/flowchart.jpeg)
