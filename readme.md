@@ -109,9 +109,8 @@ At the moment of this analysis being done, there is no "Hardmode/Normal" categor
 In order to classify a wipe or kill as "hardmode" the following criteria was used:
 
 * Iron Council: 
-          * "Steelbreaker" has to be alive (no death for "Steelbreaker" in the logs)
-          
-          * "Steelbreaker" has to die 3rd (after both "Runemaster Molgeim" and "Stormcaller Brundir" have died, doesn't matter the order of these 2).
+    * "Steelbreaker" has to be alive (no death for "Steelbreaker" in the logs)
+    * "Steelbreaker" has to die 3rd (after both "Runemaster Molgeim" and "Stormcaller Brundir" have died, doesn't matter the order of these 2).
 
 - Freya: Any attempt were Freya had either [Brightleaf's Essence](https://www.wowhead.com/wotlk/spell=62385)
  (ability.id = 62385) or [Stonebark's Essence](https://www.wowhead.com/wotlk/spell=62386)  (ability.id = 62386) was considered a "HM" attempt.
