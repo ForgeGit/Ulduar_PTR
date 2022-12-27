@@ -24,6 +24,7 @@ Based on the bias the data has (coming from PTR) it would be bold to assume the 
 3. [Methodology](#methodology-)<br>
         3.1 [HM Classification](#hardmode-classification-)<br>
         3.2 [Limitations](#limitations-)<br>
+        3.3 [Other Comments Received](#other-comments-received-)<br>
 
 ## Hardmodes Wipes and Kills <a name="Hardmodes"></a>
 
@@ -96,13 +97,15 @@ https://www.reddit.com/r/classicwow/comments/zob655/5_of_yogg_25m_attempts_were_
 
 ## Methodology <a name="Methodology"></a>
 
-More text will go here
+More text will go here - LIMITATIONS OF THE DATA CAN BE FOUND BELOW!
 
 All the data was collected using the WCL API v2 and processed with R v.4.1 (R Development Core Team).
 
 Ulduar raids were located in this zone: https://classic.warcraftlogs.com/zone/reports?zone=1017
 
 Ideally this repository should eventually have both the aggregated data used and all the code made to generate both the tables and the graphics.
+
+![Flowchart of data](img/flowchart.jpeg)
 
 ### Hardmode classification <a name="hmclassification"></a>
 
@@ -150,5 +153,11 @@ a.k.a. Things to consider when interpreting this as "information"
 
 - Raids in general are mostly testing the content, sometimes wiping on purpose or doing quick pulls "just to see the boss". 
 
+### other comments <a name="Comments"></a>
 
-![Flowchart of data](img/flowchart.jpeg)
+For the Throrim HM graphic, user [u/Cephell](https://www.reddit.com/r/classicwow/comments/zuj635/comment/j1kpign/) pointed out that the average time for wipes is meaningless since it shows a multi-modal distribution.
+
+This is correct and that measurement interpretation would end up being a wild guess. In order to more accurately represent the time it takes to wipe on a real hardmode attempt, only wipes that have happened after P1 should be considered (i.e. if you didn't made it past the tunnel, you really had no chance anyways at a hardmode attempt).
+
+
+
