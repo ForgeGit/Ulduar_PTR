@@ -109,7 +109,6 @@ At the moment of this analysis being done, there is no "Hardmode/Normal" categor
 In order to classify a wipe or kill as "hardmode" the following criteria was used:
 
 * Iron Council: 
-
           * "Steelbreaker" has to be alive (no death for "Steelbreaker" in the logs)
           
           * "Steelbreaker" has to die 3rd (after both "Runemaster Molgeim" and "Stormcaller Brundir" have died, doesn't matter the order of these 2).
