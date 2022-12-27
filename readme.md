@@ -111,6 +111,7 @@ In order to classify a wipe or kill as "hardmode" the following criteria was use
 * Iron Council: 
 
           * "Steelbreaker" has to be alive (no death for "Steelbreaker" in the logs)
+          
           * "Steelbreaker" has to die 3rd (after both "Runemaster Molgeim" and "Stormcaller Brundir" have died, doesn't matter the order of these 2).
 
 - Freya: Any attempt were Freya had either [Brightleaf's Essence](https://www.wowhead.com/wotlk/spell=62385)
