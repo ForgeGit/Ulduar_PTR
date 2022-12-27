@@ -4,7 +4,7 @@ MORE Text will go here eventually.
 
 The main purpose of this data is to:
 
-(1) Identify which parts of each boss encounter raids are having the most trouble with.
+(1) Identify which parts of each boss encounter raids were having the most trouble with.
 
 (2) Obtain a rough estimate of kill times.
 
@@ -99,7 +99,37 @@ More text will go here
 
 All the data was collected using the WCL API and processed with R v.4.1 (R Development Core Team).
 
-Ideally this repository should eventually have both the aggregated data used and all the code used to generate both the tables and the graphics.
+Ideally this repository should eventually have both the aggregated data used and all the code made to generate both the tables and the graphics.
+
+### Hardmode classification
+
+At the moment of this analysis being done, there is no "Hardmode/Normal" category for Ulduar Bosses data. 
+
+In order to classify a wipe or kill as "hardmode" the following criteria was used:
+
+- Iron Council: 
+            - "Steelbreaker" has to be alive (no death for "Steelbreaker" in the logs)
+            - "Steelbreaker" has to die 3rd (after both "Runemaster Molgeim" and "Stormcaller Brundir" have died, doesn't matter the order of these 2).
+
+- Freya: Any attempt were Freya had either Brightleaf's Essence (ability.id = 62385) or Stonebark's Essence (ability.id = 62386) was considered a "HM" attempt.
+
+- Hodir: All attempts are presented in the graphics, since the only condition for it to be "HM" is killing Hodir sub 2 minutes.
+
+- Mimiron:
+            - The Emergency Mode (ability.id = 64582) is present on Enemies (only detectable in P2 onwards).
+            - Damage from Flames (ability.id = 64566) is present on Friendlies (detectable if someone gets hit by it, which is almost always at least 1 person. If you aren't getting hit by Flames, you are likely making it to P2 therefore being detected through Emergency Mode)
+            
+- Thorim:
+            - The wipe happens before 3 minutes
+            - Thorim does NOT gain the buff Touch of Dominion (ability.id = 62565), which he can only get it if he loses Touch of Dominion (ability.id = 62507) after 3 minutes have passed.
+            
+- General Vezax: Friendlies have NOT received damage from Saronite Vaporsfrom (ability.id = 63338)
+
+- Yogg-0: None of the following buffs can be present on friendlie units:
+            - Speed of Invention (ability.id = 62671)
+            - Resilience of Nature (ability.id = 62670) 
+            - Fury of the Storm (ability.id = 62702) 
+            - Fortitude of Frost (ability.id = 62650)
 
 ### LIMITATIONS <a name="Limitations"></a>
 
