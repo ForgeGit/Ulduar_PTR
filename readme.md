@@ -22,7 +22,8 @@ Based on the bias the data has (coming from PTR) it would be bold to assume the 
         1.9. [Yogg-0](#yogg-0-)<br>
 2. [Overrall Tables](#overall-tables---boss-encounters-)<br>
 3. [Methodology](#methodology-)<br>
-        3.1 [Limitations](#limitations-)<br>
+        3.1 [HM Classification](#hardmode-classification-)-<br>
+        3.2 [Limitations](#limitations-)<br>
 
 ## Hardmodes Wipes and Kills <a name="Hardmodes"></a>
 
@@ -101,7 +102,7 @@ All the data was collected using the WCL API and processed with R v.4.1 (R Devel
 
 Ideally this repository should eventually have both the aggregated data used and all the code made to generate both the tables and the graphics.
 
-### Hardmode classification
+### Hardmode classification <a name="hmclassification"></a>
 
 At the moment of this analysis being done, there is no "Hardmode/Normal" category for Ulduar Bosses data. 
 
