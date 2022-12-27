@@ -22,7 +22,7 @@ Based on the bias the data has (coming from PTR) it would be bold to assume the 
         1.9. [Yogg-0](#yogg-0-)<br>
 2. [Overrall Tables](#overall-tables---boss-encounters-)<br>
 3. [Methodology](#methodology-)<br>
-        3.1 [HM Classification](#hardmode-classification-)-<br>
+        3.1 [HM Classification](#hardmode-classification-)<br>
         3.2 [Limitations](#limitations-)<br>
 
 ## Hardmodes Wipes and Kills <a name="Hardmodes"></a>
@@ -98,7 +98,9 @@ https://www.reddit.com/r/classicwow/comments/zob655/5_of_yogg_25m_attempts_were_
 
 More text will go here
 
-All the data was collected using the WCL API and processed with R v.4.1 (R Development Core Team).
+All the data was collected using the WCL API v2 and processed with R v.4.1 (R Development Core Team).
+
+Ulduar raids were located in this zone: https://classic.warcraftlogs.com/zone/reports?zone=1017
 
 Ideally this repository should eventually have both the aggregated data used and all the code made to generate both the tables and the graphics.
 
