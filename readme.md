@@ -111,25 +111,26 @@ In order to classify a wipe or kill as "hardmode" the following criteria was use
             - "Steelbreaker" has to be alive (no death for "Steelbreaker" in the logs)
             - "Steelbreaker" has to die 3rd (after both "Runemaster Molgeim" and "Stormcaller Brundir" have died, doesn't matter the order of these 2).
 
-- Freya: Any attempt were Freya had either Brightleaf's Essence (ability.id = 62385) or Stonebark's Essence (ability.id = 62386) was considered a "HM" attempt.
+- Freya: Any attempt were Freya had either [Brightleaf's Essence](https://www.wowhead.com/wotlk/spell=62385)
+ (ability.id = 62385) or [Stonebark's Essence](https://www.wowhead.com/wotlk/spell=62386)  (ability.id = 62386) was considered a "HM" attempt.
 
 - Hodir: All attempts are presented in the graphics, since the only condition for it to be "HM" is killing Hodir sub 2 minutes.
 
 - Mimiron:
-            - The Emergency Mode (ability.id = 64582) is present on Enemies (only detectable in P2 onwards).
-            - Damage from Flames (ability.id = 64566) is present on Friendlies (detectable if someone gets hit by it, which is almost always at least 1 person. If you aren't getting hit by Flames, you are likely making it to P2 therefore being detected through Emergency Mode)
+            - The [Emergency Mode](https://www.wowhead.com/wotlk/spell=64582) (ability.id = 64582) buff is present on enemies (only detectable in P2 onwards).
+            - Damage from [Flames](https://www.wowhead.com/wotlk/spell=64566) (ability.id = 64566) is present on friendlies (detectable if someone gets hit by it, which is almost always at least 1 person. If you aren't getting hit by Flames, you are likely making it to P2 therefore being detected through Emergency Mode)
             
 - Thorim:
             - The wipe happens before 3 minutes
-            - Thorim does NOT gain the buff Touch of Dominion (ability.id = 62565), which he can only get it if he loses Touch of Dominion (ability.id = 62507) after 3 minutes have passed.
+            - Thorim does NOT gain the buff [Touch of Dominion](https://www.wowhead.com/wotlk/spell=62565) (ability.id = 62565), which he can only get it if he loses [Touch of Dominion](https://www.wowhead.com/wotlk/spell=62507) (ability.id = 62507) after 3 minutes have passed.
             
-- General Vezax: Friendlies have NOT received damage from Saronite Vaporsfrom (ability.id = 63338)
+- General Vezax: Friendlies have NOT received damage from [Saronite Vapors](https://www.wowhead.com/wotlk/spell=63338) (ability.id = 63338)
 
 - Yogg-0: None of the following buffs can be present on friendlie units:
-            - Speed of Invention (ability.id = 62671)
-            - Resilience of Nature (ability.id = 62670) 
-            - Fury of the Storm (ability.id = 62702) 
-            - Fortitude of Frost (ability.id = 62650)
+            - [Speed of Invention](https://www.wowhead.com/wotlk/spell=62671) (ability.id = 62671)
+            - [Resilience of Nature](https://www.wowhead.com/wotlk/spell=62670) (ability.id = 62670) 
+            - [Fury of the Storm](https://www.wowhead.com/wotlk/spell=62702) (ability.id = 62702) 
+            - [Fortitude of Frost](https://www.wowhead.com/wotlk/spell=62650) (ability.id = 62650)
 
 ### LIMITATIONS <a name="Limitations"></a>
 
