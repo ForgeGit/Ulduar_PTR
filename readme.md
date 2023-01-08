@@ -1,6 +1,8 @@
 # Ulduar PTR Data
 
-MORE Text will go here eventually.
+MORE Text will go here eventually. Or maybe no idk.
+
+As of 06/01/2023 (dd/mm/yyyy) there is a new PTR build and the raid has been open again. I am currently working on processing the new data/logs from Ulduar PTR "version 2" and expect to have it done by tuesday-wednesday  10th-11th.
 
 The main purpose of this data is to:
 
