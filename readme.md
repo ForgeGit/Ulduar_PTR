@@ -162,4 +162,7 @@ For the Throrim HM graphic, user [u/Cephell](https://www.reddit.com/r/classicwow
 This is correct and that measurement interpretation would end up being a wild guess. In order to more accurately represent the time it takes to wipe on a real hardmode attempt, only wipes that have happened after P1 should be considered (i.e. if you didn't made it past the tunnel, you really had no chance anyways at a hardmode attempt).
 
 
+# Other analysis done
+
+- Check other things I have done here: https://github.com/ForgeGit?tab=repositories
 
